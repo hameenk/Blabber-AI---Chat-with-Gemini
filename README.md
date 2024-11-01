@@ -1,7 +1,7 @@
 
 
 # Blabber AI - Chat with Gemini
-###flutter
+### flutter
 
 ## Overview
 Blabber AI is a Flutter-based chat application that allows users to interact with an AI bot named Gemini. Using the `dash_chat_2` and `flutter_gemini` packages, the app provides a smooth, real-time chat interface where users can send text or images, and Gemini responds accordingly.
