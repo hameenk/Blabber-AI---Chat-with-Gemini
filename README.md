@@ -13,6 +13,7 @@ Blabber AI is a Flutter-based chat application that allows users to interact wit
 - **AI Integration**: Using `flutter_gemini`, the AI bot can generate responses based on user messages, making the interaction feel more personalized.
 - **Media Support**:
   - **Image Upload**: Users can select images from their gallery, which are sent to Gemini for processing. Gemini can respond with a description or relevant information based on the image content, enhancing user interaction.
+
   
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f8fd0c88-9033-453b-923b-7d3fa205c98b" width="220" height="440"/>
